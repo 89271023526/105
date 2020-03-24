@@ -1,0 +1,16 @@
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105.csprojAssemblyReference.cache
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\App.g.cs
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105_MarkupCompile.cache
+C:\Users\Cab38-Student05\source\repos\105\105\bin\Debug\105.exe.config
+C:\Users\Cab38-Student05\source\repos\105\105\bin\Debug\105.exe
+C:\Users\Cab38-Student05\source\repos\105\105\bin\Debug\105.pdb
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\MainWindow.g.cs
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105_MarkupCompile.lref
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\MainWindow.baml
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105.g.resources
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\_105.Properties.Resources.resources
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105.csproj.GenerateResource.cache
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105.exe
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\105.pdb
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\WindowLogin.g.cs
+C:\Users\Cab38-Student05\source\repos\105\105\obj\Debug\WindowLogin.baml
